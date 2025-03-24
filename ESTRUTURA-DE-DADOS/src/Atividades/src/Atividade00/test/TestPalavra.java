@@ -1,6 +1,8 @@
-import dominio.Palavra;
+package Atividade00.test;
 
-public class Main {
+import Atividade00.dominio.Palavra;
+
+public class TestPalavra {
     public static void main(String[] args) {
         String[] palavraInseridas = {"Mesa", "Livro", "Penteadeira", "Caderno", "Mouse", "MousePad", "Mouse", "Carregador", "Celular", "Cadeira"};
         Palavra palavra = new Palavra(palavraInseridas);

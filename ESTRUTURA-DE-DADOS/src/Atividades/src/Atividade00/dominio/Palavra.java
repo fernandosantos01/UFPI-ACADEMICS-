@@ -1,6 +1,4 @@
-package dominio;
-
-import java.util.List;
+package Atividade00.dominio;
 
 public class Palavra {
     String[] palavra;
